@@ -31,5 +31,5 @@ Ce projet met en pratique **Spring MVC** pour la gestion des produits, ainsi que
 
 ![Img1](captures/A.png)
 ![Img2](captures/B.png)
-![Img3](captures/c.png)
+![Img3](captures/C.png)
 
