@@ -29,4 +29,7 @@ Ce projet met en pratique **Spring MVC** pour la gestion des produits, ainsi que
 
 🎯 Technologies utilisées : Spring MVC, Keycloak, Maven, Spring Security
 
-🚀 Bon développement ! 😊
+![Img1](captures/A.png)
+![Img2](captures/B.png)
+![Img3](captures/c.png)
+
